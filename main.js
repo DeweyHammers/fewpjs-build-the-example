@@ -4,8 +4,8 @@ const FULL_HEART = '♥'
 
 // Your JavaScript code goes here!
 
-
-
+const error = document.querySelector('#modal');
+error.className = 'hidden'
 
 //------------------------------------------------------------------------------
 // Don't change the code below: this function mocks the server response
